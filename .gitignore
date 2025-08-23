@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+#etc
+hs_err_pid41304.log
+.gitignore
+uv.lock
